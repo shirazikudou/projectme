@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Car Rent Project</string>
+    <string name="register_your_details">Register Your Complete Detail</string>
+    <string name="full_name">Full Name</string>
+    <string name="course">Course</string>
+    <string name="cancel">Signout</string>
+    <string name="inasis">Inasis</string>
+    <string name="password">Password</string>
+    <string name="matric_number">Matric Number</string>
+    <string name="email_address">Email address</string>
+    <string name="register">Register</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="rent_my_car">Rent My Car</string>
+    <string name="rent_a_car">Book A Car</string>
+    <string name="tap_the_list_to_book_the_car">LIST OF CUSTOMERS</string>
+    <string name="get_userdetails">User Details</string>
+</resources>
